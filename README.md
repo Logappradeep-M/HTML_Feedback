@@ -12,7 +12,7 @@
    - Use theme customization options to match your branding or aesthetic preferences.
 7. **Save your form**
 8. **Turn off "Collect email addresses"**  
-   ![Forms](https://raw.githubusercontent.com/logappradeep-m/HTML_Feedback/main/images/others/forms.png)
+   ![Forms](https://raw.githubusercontent.com/logappradeep-m/HTML_Feedback/main/src/images/others/forms.png)
 9. **Enable Notifications for Responses**
    - Set up email notifications for new responses to stay updated in real-time.
 10. **Share the Form Link**
@@ -21,11 +21,11 @@
 12. **Edit HTML and CSS as required**
 13. **Open the Google Forms link in incognito mode**
 14. **Open the inspector and find the "Action URL". Copy and paste it in JavaScript**  
-    ![Action Image](https://raw.githubusercontent.com/logappradeep-m/HTML_Feedback/main/images/others/action.png)
+    ![Action Image](https://raw.githubusercontent.com/logappradeep-m/HTML_Feedback/main/src/images/others/action.png)
 15. **Open the inspector and find the "Field ID". Copy and paste it in JavaScript**  
-    ![ID Image](https://raw.githubusercontent.com/logappradeep-m/HTML_Feedback/main/images/others/id.png)
+    ![ID Image](https://raw.githubusercontent.com/logappradeep-m/HTML_Feedback/main/src/images/others/id.png)
 16. **Open JavaScript and change the form URL and field ID correctly**  
-    ![JS Image](https://raw.githubusercontent.com/logappradeep-m/HTML_Feedback/main/images/others/js.png)
+    ![JS Image](https://raw.githubusercontent.com/logappradeep-m/HTML_Feedback/main/src/images/others/js.png)
 17. **Analyze Responses in Google Sheets**
     - Use built-in tools like charts, filters, and pivot tables for analysis.
 18. **Backup and Version Control**
